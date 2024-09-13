@@ -1,13 +1,11 @@
 // gcc -o todo todo.c -lglfw -lGL
 
-// Include OpenGL header for rendering functions
-#include <GL/gl.h>
-
 // Standard input/output library for debugging or output
 #include <stdio.h>
-
 // Include GLFW header for managing windows and input
 #include <GLFW/glfw3.h>
+// Include OpenGL header for rendering functions
+#include <GL/gl.h>
 
 int main() {
   // Initialize the GLFW library
