@@ -8,3 +8,9 @@ sudo make avail
 > run build task (una volta salvata la configurazione!)
 
 sudo apt install fceux
+
+# Fonti
+
+https://www.gravelstudios.com/blog/nesassembly/
+https://www.patater.com/gbaguy/nesasm.htm
+
